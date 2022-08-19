@@ -10,6 +10,9 @@
 - it takes almost 8-9 hours to complete this project.
 
 ---
+[visit This Website](https://paytm-clone-0.netlify.app/)
+---
+                                                   By_Jatin Agrahari
 
 ![Demo-images](https://github.com/jatin2311/Paytm-clone/blob/main/demo/SS-01.png)
 ![Demo-images](https://github.com/jatin2311/Paytm-clone/blob/main/demo/SS-02.png)
@@ -19,6 +22,6 @@
 [visit This Website](https://paytm-clone-0.netlify.app/)
 
 
-                                                   By_Jatin Agrahari
+                                                   
 
 
