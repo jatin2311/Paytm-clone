@@ -19,7 +19,6 @@
 ![Demo-images](https://github.com/jatin2311/Paytm-clone/blob/main/demo/SS-03.png)
 ![Demo-images](https://github.com/jatin2311/Paytm-clone/blob/main/demo/ss-04.png)
 
-[visit This Website](https://paytm-clone-0.netlify.app/)
 
 
                                                    
